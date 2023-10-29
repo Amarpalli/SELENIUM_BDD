@@ -1,0 +1,9 @@
+package StepDefinition;
+
+import org.openqa.selenium.WebDriver;
+import org.apache.logging.log4j.*;
+
+public class New {
+	public static  WebDriver driver;
+	public static Logger log;
+}

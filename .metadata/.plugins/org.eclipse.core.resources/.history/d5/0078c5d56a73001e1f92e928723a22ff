@@ -1,0 +1,7 @@
+package StepDefinition;
+
+import org.openqa.selenium.WebDriver;
+
+public class New {
+	public static  WebDriver driver;
+}

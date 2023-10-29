@@ -1,0 +1,15 @@
+package StepDefinition;
+
+import org.openqa.selenium.WebDriver;
+
+import PageObject.AddNewCustomerPage;
+import PageObject.SearchCustomerPage;
+
+import org.apache.logging.log4j.*;
+
+public class New {
+	public static  WebDriver driver;
+	public static Logger log;
+	public SearchCustomerPage SearchCustPg;
+	public AddNewCustomerPage addNewCustPg;
+}

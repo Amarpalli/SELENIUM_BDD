@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+    <fullyQualifiedTypeName name="StepDefinition.BaseClass"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="PageObject.SearchCustomerPage"/>
+    <fullyQualifiedTypeName name="PageObject.AddNewCustomerPage"/>
+    <fullyQualifiedTypeName name="PageObject.LoginPage"/>
+    <fullyQualifiedTypeName name="Utilities.ReadConfig"/>
+    <fullyQualifiedTypeName name="org.apache.commons.lang.RandomStringUtils"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+</qualifiedTypeNameHistroy>

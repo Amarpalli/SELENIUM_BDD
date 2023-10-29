@@ -1,0 +1,2 @@
+browser = chrome
+System.setProperty("webdriver.http.factory", "jdk-http-client");
